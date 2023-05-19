@@ -1,0 +1,3 @@
+Un juego de salón requiere saber la cantidad de letras iguales que hay entre dos
+palabras de cinco letras cada una (ingresadas por medio de un HTML). Considerar
+que ninguna de ellas tiene letras repetidas.
